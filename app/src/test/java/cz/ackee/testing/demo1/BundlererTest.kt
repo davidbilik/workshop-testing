@@ -1,11 +1,10 @@
 package cz.ackee.testing.demo1
 
-import cz.ackee.testing.demo1.Bundlerer
 import junit.framework.Assert.assertEquals
 import org.junit.Test
 
 /**
- * TODO add class description
+ * Tests for [Bundlerer]
  */
 class BundlererTest {
 
